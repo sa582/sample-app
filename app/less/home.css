@@ -1,0 +1,17 @@
+header {
+  height: 50px;
+  background-color: gray;
+  margin-bottom: 10px;
+  color: white;
+}
+header .proName {
+  padding: 10px;
+  font-size: 20px;
+}
+.footer {
+  height: 50px;
+  background-color: gray;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}

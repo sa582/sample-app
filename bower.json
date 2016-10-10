@@ -1,0 +1,26 @@
+{
+  "name": "sample",
+  "description": "my bower test",
+  "main": "index.js",
+  "authors": [
+    "sai"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "test"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.2.0",
+    "bootstrap": "^3.0.0",
+    "jquery": "^2.0.3",
+    "angular-route": "^1.5.8"
+  }
+}
